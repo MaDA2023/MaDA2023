@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaDA2023
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Statistics
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on @Kaggle
 - 📫 How to reach me @MaDA2023
