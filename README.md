@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on @Kaggle
-- 📫 How to reach me @fundal
+- 📫 How to reach me @hourimadiha
 
 <!---
 MaDA2023/MaDA2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
