@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @[MaDA2023](https://github.com/MaDA2023)
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on @[Kaggle](https://www.kaggle.com/fundal)
+- 👋 Hi, I’m MaDiha
+- 👀 I’m interested in Statistics Science.
+- 🌱 I’m currently striving to master everything related to Regression Analysis…
+- 💞️ I’m looking to collaborate on @ [Kaggle](https://www.kaggle.com/fundal)
 - 📫 How to reach me @[hourimadiha](https://twitter.com/hourimadiha)
 
 <!---
