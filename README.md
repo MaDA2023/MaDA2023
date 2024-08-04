@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently striving to master everything related to Regression Analysis…
 - 💞️ I’m looking to collaborate on @[Kaggle](https://www.kaggle.com/fundal)
-- 📫 How to reach me @[MaDiha](https://about.me/madiha.houri)
+- 📫 How to reach me @[MaDiha](https://madihahouri.carrd.co/)
 
 <!---
 MaDA2023/MaDA2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
