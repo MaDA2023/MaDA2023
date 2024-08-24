@@ -1,5 +1,5 @@
-- 👋 Hi, I’m MaDiha [Follow Data;  Make Charts;  Extract Relations;  Explore Patterns]
-- 👀 I’m interested in Data Analysis.
+- 👋 Hi, I’m MaDiha 🔎 Follow Data 📊 Make Charts 📈 Extract Relations 🧩 Explore Patterns
+- 👀 I’m interested in Data Science: Regression Analysis
 - 🌱 I’m currently striving to master everything related to Regression Analysis…
 - 💞️ I’m looking to collaborate on @[Kaggle](https://www.kaggle.com/fundal)
 - 📫 How to reach me @[MaDiha](https://madihahouri.carrd.co/)
